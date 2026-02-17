@@ -19,12 +19,14 @@
 ## Brand Voice
 
 ### Tone
+
 - **Friendly and approachable** — like talking to a neighbor who happens to know a lot about cars
 - **Confident but never pushy** — we let the vehicles and the experience speak for themselves
-- **Genuinely enthusiastic** about helping people find the right car
+- **Genuinely enthusiastic** — loves helping people find the right car
 - **Down-to-earth Texas warmth** — family-owned feel, first-name basis, community-oriented
 
 ### Language Style
+
 - Casual and conversational — not corporate or salesy
 - Short, punchy sentences for social media
 - Use "we" and "our" — it's personal, not institutional
@@ -33,6 +35,7 @@
 - OK to use light humor and wordplay (the tagline itself is a pun)
 
 ### Words & Phrases We Use
+
 - "Hand-picked" (every vehicle is curated, not bulk-purchased)
 - "No-haggle pricing" / "The price is the price"
 - "No pressure" / "Hassle-free"
@@ -44,6 +47,7 @@
 - "Quality pre-owned"
 
 ### Words & Phrases We Avoid
+
 - "Used cars" (say "pre-owned" or just name the vehicle)
 - High-pressure language ("Act now!", "Limited time!", "Don't miss out!")
 - Overly technical spec dumps without context
@@ -79,6 +83,7 @@
 10. **After-sale support** — Follow-up calls, help with questions after purchase, ongoing relationship.
 
 ### Authentic Customer Quotes (use as inspiration, not verbatim)
+
 - "The price is the price"
 - "Best car-buying experience of my life"
 - "No haggling, no hassling, no pressure"
@@ -93,32 +98,42 @@
 ## Content Pillars
 
 ### 1. New Arrivals (PRIMARY — automated)
+
 Fresh inventory drops. This is our bread and butter for social content.
+
 - Lead with the vehicle name and a hook ("Just landed!" / "New on the lot!")
 - Highlight 2-3 standout features (range, tech, condition)
 - Always mention it's hand-picked and inspected
 - Include price transparency — no bait-and-switch energy
 
 ### 2. Sold / Congratulations
+
 Celebrate customers picking up their new ride.
+
 - Tag the customer if possible
 - Keep it warm and personal — use their first name
 - "Welcome to the family!" energy
 - Shows social proof that cars move fast
 
 ### 3. Automotive Tips & Education
+
 Help people with car buying — what to look for in pre-owned vehicles, EV charging basics, maintenance tips, financing advice.
+
 - Keep it simple and approachable
 - Position Austin E Autos as knowledgeable and trustworthy
 - EV-specific tips are great when the vehicle calls for it, but don't force it
 
 ### 4. Community & Local
+
 Austin/Round Rock connection — local events, Texas-relevant content.
+
 - Reinforce that we're local and family-owned
 - Seasonal/topical content (Texas heat, road trip season, etc.)
 
 ### 5. Behind the Scenes
+
 Show the team, the showroom, the inspection process.
+
 - Humanizes the brand
 - Reinforces quality and care
 - Team spotlights build trust
@@ -128,6 +143,7 @@ Show the team, the showroom, the inspection process.
 ## Hashtag Strategy
 
 ### Always Include (brand hashtags)
+
 - `#AustinEAutos`
 - `#RoundRockTX`
 - `#AustinTexas`
@@ -135,21 +151,25 @@ Show the team, the showroom, the inspection process.
 ### Rotate Based on Content Type
 
 **New Arrivals:**
+
 - `#PreOwned` `#QualityPreOwned` `#NewArrival` `#JustLanded`
 - Vehicle-specific: `#Tesla` `#ModelY` `#Ford` `#MustangMachE` `#Rivian` `#R1S` `#Toyota` `#Honda` (match to actual vehicle)
 - For EVs/hybrids: `#ElectricVehicle` `#EVLife` `#ElectricCar` `#HybridCar`
 
 **General / Engagement:**
+
 - `#ATX` `#RoundRock` `#CedarPark` `#TexasCars`
 - `#FamilyOwned` `#SmallBusiness` `#LocalDealer`
 - `#NoHaggle` `#TransparentPricing` `#HassleFree`
 - `#PreOwnedCars` `#UsedCarsAustin` `#CarShopping`
 
 **EV-Specific (use when the vehicle is electric or hybrid):**
+
 - `#EVCommunity` `#GoElectric` `#EVLife`
 - `#EVTips` `#EVCharging`
 
 ### Hashtag Rules
+
 - Instagram: 15-20 hashtags (mix of brand, vehicle, local, and automotive)
 - Facebook: 3-5 hashtags max (less is more)
 - X/Twitter: 2-3 hashtags max, woven into the text naturally
@@ -160,6 +180,7 @@ Show the team, the showroom, the inspection process.
 ## Post Formatting Guidelines
 
 ### Instagram
+
 - Lead with a hook or vehicle name
 - 2-3 short paragraphs max
 - Emoji use: moderate — a few per post, not every line (car, check mark, fire, keys are on-brand)
@@ -167,18 +188,21 @@ Show the team, the showroom, the inspection process.
 - Always include a soft CTA: "Link in bio" / "DM us" / "Stop by the showroom"
 
 ### Facebook
+
 - Slightly longer form is OK — 3-4 short paragraphs
 - More conversational, community-focused
 - Fewer hashtags, more natural language
 - Can include links directly in the post
 
 ### X (Twitter)
+
 - Tight and punchy — get to the point
 - Vehicle name + 1-2 key features + CTA
 - Hashtags woven in, not appended
 - Thread format for educational content
 
 ### TikTok
+
 - Hook in first 2 seconds — "This just hit the lot" / "Wait till you see this"
 - Casual, energetic, slightly younger tone
 - Trending audio when relevant
@@ -202,6 +226,7 @@ When generating social media copy for Austin E Autos, the AI should:
 ---
 
 ## Brand Ratings & Trust Signals
+
 - Google: 4.8 stars (367+ reviews)
 - CarGurus: 5 stars
 - KBB: 5 stars
@@ -213,6 +238,7 @@ When generating social media copy for Austin E Autos, the AI should:
 ---
 
 ## Team Members (for tagging/mentions)
+
 - Justin Fosbury — President
 - Dawn Fosbury — Owner
 - Brian — Co-owner
