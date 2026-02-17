@@ -4,20 +4,50 @@
   <meta charset="UTF-8">
   <title>AustinEAutos Content Engine</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
   <style>
     :root {
       --theme-color: #E07020;
       --sidebar-name-color: #E07020;
       --sidebar-nav-link-color--active: #E07020;
       --sidebar-nav-link-border-color--active: #E07020;
+      --base-font-family: 'Poppins', sans-serif;
+      --heading-font-family: 'Poppins', sans-serif;
+      --sidebar-name-font-family: 'Poppins', sans-serif;
     }
-    .app-name-link {
-      font-size: 1.2em !important;
+    body, .markdown-section, .sidebar, .search input {
+      font-family: 'Poppins', sans-serif !important;
+    }
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3,
+    .markdown-section h4 {
+      font-family: 'Poppins', sans-serif !important;
     }
     .markdown-section h1,
     .markdown-section h2 {
       color: #E07020;
+    }
+    .sidebar .app-name-link {
+      font-size: 1.1em !important;
+      font-weight: 600;
+    }
+    .sidebar-nav {
+      font-weight: 400;
+    }
+    /* Logo banner at top of sidebar */
+    .sidebar .logo-banner {
+      display: block;
+      padding: 16px 20px;
+      margin: 0 0 10px 0;
+      text-align: center;
+    }
+    .sidebar .logo-banner img {
+      max-width: 200px;
+      height: auto;
     }
   </style>
 </head>
@@ -25,7 +55,7 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'AustinEAutos<br>Content Engine',
+      name: '<div class="logo-banner"><img src="dealer-logo-main.png" alt="Austin E Autos"></div>Content Engine',
       repo: '',
       loadSidebar: true,
       subMaxLevel: 2,
